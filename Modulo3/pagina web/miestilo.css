@@ -1,0 +1,8 @@
+/*paginaweb 2 Comentario en CSS*/ 
+body{
+
+    background-color: rgb(73 , 159 , 222);
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    padding-left: 5em;
+}
